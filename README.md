@@ -1,0 +1,1 @@
+do ./server-stats.sh to start
